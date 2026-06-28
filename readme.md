@@ -79,6 +79,5 @@ Durante o desenvolvimento deste projeto foram praticados conceitos como:
 
 Desenvolvido por **Duda Dev**.
 
-- GitHub: https://github.com/seuusuario
+- GitHub: https://github.comdudamilannnn
 - Instagram: https://instagram.com/dudadev
-- LinkedIn: https://linkedin.com/in/seuperfil
