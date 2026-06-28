@@ -80,4 +80,3 @@ Durante o desenvolvimento deste projeto foram praticados conceitos como:
 Desenvolvido por **Duda Dev**.
 
 - GitHub: https://github.com/dudamilannnn
-- Instagram: https://instagram.com/dudadev_
