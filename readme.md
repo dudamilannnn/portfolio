@@ -11,7 +11,7 @@ Este é o meu portfólio pessoal como Desenvolvedora Web Freelancer. O projeto f
 
 -- ou --
 
-[Ver projeto ao vivo]()
+[Ver projeto ao vivo](https://dudamilannnn.github.io/portfolio/)
 
 ## Funcionalidades
 
